@@ -1,0 +1,14 @@
+{
+  "name": "dbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "Anderlaxe/Krystool",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
